@@ -1,0 +1,9 @@
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\obj\Debug\Autokauppa.csprojAssemblyReference.cache
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\obj\Debug\Autokauppa.view.MainMenu.resources
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\obj\Debug\Autokauppa.csproj.GenerateResource.cache
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\obj\Debug\Autokauppa.csproj.CoreCompileInputs.cache
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\obj\Debug\Auto.exe
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\obj\Debug\Auto.pdb
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\bin\Debug\Auto.exe.config
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\bin\Debug\Auto.exe
+C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\bin\Debug\Auto.pdb
