@@ -7,3 +7,12 @@ C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\obj\Debug\Au
 C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\bin\Debug\Auto.exe.config
 C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\bin\Debug\Auto.exe
 C:\Users\pirjo\OneDrive\Asiakirjat\autotehtävä\autotehtävä\Auto\bin\Debug\Auto.pdb
+C:\Users\vilbort\Source\Repos\Auto\Auto\bin\Debug\Auto.exe.config
+C:\Users\vilbort\Source\Repos\Auto\Auto\bin\Debug\Auto.exe
+C:\Users\vilbort\Source\Repos\Auto\Auto\bin\Debug\Auto.pdb
+C:\Users\vilbort\Source\Repos\Auto\Auto\obj\Debug\Autokauppa.csprojAssemblyReference.cache
+C:\Users\vilbort\Source\Repos\Auto\Auto\obj\Debug\Autokauppa.view.MainMenu.resources
+C:\Users\vilbort\Source\Repos\Auto\Auto\obj\Debug\Autokauppa.csproj.GenerateResource.cache
+C:\Users\vilbort\Source\Repos\Auto\Auto\obj\Debug\Autokauppa.csproj.CoreCompileInputs.cache
+C:\Users\vilbort\Source\Repos\Auto\Auto\obj\Debug\Auto.exe
+C:\Users\vilbort\Source\Repos\Auto\Auto\obj\Debug\Auto.pdb

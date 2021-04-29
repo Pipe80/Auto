@@ -15,6 +15,8 @@ namespace Autokauppa.view
 {
     public partial class MainMenu : Form
     {
+        // ei tarvita täällä. Idea on, että controlleri keskustele tietokannan kanssa. Käyttöliittymän ei tarvitse tietää mistä tieto tulee. Tämä mahdollistaa eri
+        // tietolähteet.
         DatabaseHallinta dbModel = new DatabaseHallinta();
 
         KaupanLogiikka registerHandler = new KaupanLogiikka();

@@ -21,7 +21,8 @@ namespace Autokauppa.model
 
         public DatabaseHallinta()
         {
-            conInfo = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Autot;Integrated Security=True;";
+            // muutin tämän omaksi dbconstringiksi
+            conInfo = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=AutoKauppa;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         }
 
         public bool connectDatabase()
@@ -49,7 +50,10 @@ namespace Autokauppa.model
         {
             dataYhteys.Close();
         }
-
+        /// <summary>
+        /// Kommentit olisi hyvä olla
+        /// </summary>
+        /// <returns></returns>
         public List<AutonMerkki> getAllAutoMakersFromDatabase()
         {
             List<AutonMerkki> listmerkki = new List<AutonMerkki>();
@@ -83,6 +87,7 @@ namespace Autokauppa.model
             dataYhteys.Open();
             using (SqlCommand tallennappa = new SqlCommand(sql, dataYhteys))
             {
+                //System.Data tulee napespacesta eli ei tarvita täällä
                 tallennappa.Parameters.Add("@Hinta", System.Data.SqlDbType.Decimal).Value = tallennaAuto.Hinta;
                 tallennappa.Parameters.Add("@Rekisteri_paivamaara", System.Data.SqlDbType.DateTime).Value = tallennaAuto.Rekisteri_paivamaara;
                 tallennappa.Parameters.Add("@Moottorin_Tilavuus", System.Data.SqlDbType.Decimal).Value = tallennaAuto.Moottorin_tilavuus;

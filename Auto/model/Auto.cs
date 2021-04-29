@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Autokauppa.model
 {
+    /// <summary>
+    /// Luokat olisi hyvä olla omina tiedostoinaan, mutta tämä toimii toki :) Jatkossa tee aina luokat erikseen.
+    /// </summary>
     public class Auto
     {
         private int id;

@@ -20,7 +20,7 @@ namespace Autokauppa.controller
             return toimiiko;
         }
 
-        public bool saveAuto(model.Auto newAuto)
+        public bool saveAuto(Auto newAuto)
         {
             bool didItGoIntoDatabase = dbModel.saveAutoIntoDatabase(newAuto);
             return didItGoIntoDatabase;
